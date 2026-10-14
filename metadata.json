@@ -1,0 +1,6 @@
+{
+  "name": "Herosbet",
+  "description": "Football betting tips, daily sure odds, and VIP predictions with live match updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

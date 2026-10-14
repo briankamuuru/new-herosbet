@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612187593578",
+    "project_id": "heroes-614bf",
+    "storage_bucket": "heroes-614bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612187593578:android:4f97c36eaee756bd6a2313",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.herosbet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuEi3GSCqokENUPdryow1LyTxLbG3Lf5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color accent_gold
+color black
+color primary_dark_green
+color primary_green
+color surface_light
+color white
+drawable background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_logo
+drawable iccorrect
+drawable icwhatsapp
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string daily_sure_tips
+string join_telegram
+string maxbetters_vip
+string monthly_fixed_vip
+string monthly_price
+string no_tips_available
+string odds_vip_3
+string odds_vip_6
+string privacy_policy
+string retry
+string title_home
+string vip_subscription_notice
+string weekly_fixed_vip
+string weekly_price
+style Theme.Herosbet

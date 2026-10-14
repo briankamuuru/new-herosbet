@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_gold">#FFC107</color>
+    <color name="black">#000000</color>
+    <color name="primary_dark_green">#0D3B10</color>
+    <color name="primary_green">#1B5E20</color>
+    <color name="surface_light">#E0E0E0</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Herosbet</string>
+    <string name="daily_sure_tips">Daily Sure Tips</string>
+    <string name="join_telegram">Join Telegram</string>
+    <string name="maxbetters_vip">Maxbetters Special VIP</string>
+    <string name="monthly_fixed_vip">MONTHLY FIXED VIP</string>
+    <string name="monthly_price">$29.99</string>
+    <string name="no_tips_available">No tips available right now</string>
+    <string name="odds_vip_3">3 ODDS VIP</string>
+    <string name="odds_vip_6">6 ODDS VIP</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="retry">Retry</string>
+    <string name="title_home">H E R O S B E T</string>
+    <string name="vip_subscription_notice">App subscription will renew automatically. You can turn off this in your Google Play payments profile.\nIf you cancel, you can still use the subscription until the current billing period ends.\nIf you have any questions or need help, please contact us at:\ngikutha7@gmail.com</string>
+    <string name="weekly_fixed_vip">WEEKLY FIXED VIP</string>
+    <string name="weekly_price">$9.99</string>
+    <style name="Theme.Herosbet" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0D3B10</item>
+        <item name="android:navigationBarColor">#0D3B10</item>
+    </style>
+</resources>

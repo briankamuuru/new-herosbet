@@ -1,0 +1,8 @@
+# Key properties template for signing release APKs and App Bundles (AAB)
+# Place your release keystore (e.g. upload-keystore.jks or herosbet.keystore) in the root project directory
+# and create a 'key.properties' file matching this format:
+
+storeFile=release.keystore
+storePassword=YOUR_KEYSTORE_PASSWORD
+keyAlias=YOUR_KEY_ALIAS
+keyPassword=YOUR_KEY_PASSWORD
